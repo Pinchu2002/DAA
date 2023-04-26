@@ -1,2 +1,0 @@
-Implement the basis sorting techniques such as Bubble Sort, Selection Sort and Insertion Sort. 
-Discus  the behaviour of each sorting technique when elements are in sorted order
