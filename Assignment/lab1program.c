@@ -3,7 +3,6 @@
 #include <time.h>
 
 #define N 100
-
 /* Structure to store a node in the binary tree */
 typedef struct _tnode {
    int val;            /* value */
